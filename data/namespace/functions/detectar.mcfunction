@@ -1,0 +1,1 @@
+execute as @a if predicate namespace:tiene_diamante run say ¡Tengo un diamante en la mano!
