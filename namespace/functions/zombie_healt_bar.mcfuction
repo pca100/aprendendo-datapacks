@@ -1,0 +1,4 @@
+# Invocamos al zombie y le damos un tag
+summon zombie ~ ~ ~ {Tags:["mi_zombie"]}
+# Invocamos al armor stand que servirá de "etiqueta"
+summon armor_stand ~ ~ ~ {Tags:["barra_vida"],Marker:1b,Invisible:1b,CustomNameVisible:1b,CustomName:'{"text":"[||||||||||]"}'}
