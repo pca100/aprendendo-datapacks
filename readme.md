@@ -25,3 +25,18 @@ data/mi_namespace/
 │   └── items/           # Grupos de objetos
 └── loot_tables/
     └── mobs/            # Drops de mobs custom
+```
+
+## ⚙️ Herramientas y Recursos
+
+### VS Code
+* **[Datapack Helper Plus by Spyglass](https://spyglassmc.com/user/config)**: Extensión esencial para autocompletado, validación de sintaxis y detección de errores.
+
+### Generadores y Utilidades
+* **[Misode](https://misode.github.io/)**: El generador más completo para archivos `.json` (loot tables, predicados, estructuras).
+* **[McStacker](https://mcstacker.net/)**: Generador de comandos (`/summon`, `/particle`, `/give`) con interfaz visual.
+* **[Blockbench](https://www.blockbench.net/)**: Herramienta para modelado, texturizado y animación de entidades custom.
+
+### Documentación y Referencia
+* **[Minecraft Wiki (Commands)](https://minecraft.wiki/w/Commands)**: Documentación oficial para consultar sintaxis detallada.
+* **[Minecraft Wiki (Datapacks)](https://minecraft.wiki/w/Data_pack)**: Guía de referencia técnica sobre la estructura y funcionamiento de los datapacks.
